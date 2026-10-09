@@ -101,8 +101,8 @@ visionsuite/
 ### 2. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/Anshcodin/visionanalysis.git
+cd visionanalysis
 ```
 
 ### 3. (Recommended) create a virtual environment
